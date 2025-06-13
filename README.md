@@ -1,2 +1,20 @@
-# pharmacist-porfolio
-💊 Responsive portfolio website for Mohd Maroof Chaudhary — a professional pharmacist based in Mumbai. Built with HTML, Tailwind CSS, and JavaScript to showcase experience, skills, education, and contact information.
+# Maroof Portfolio
+
+A modern, fully responsive portfolio website for Mohd Maroof Chaudhary — a professional pharmacist based in Mumbai.
+
+## 🚀 Tech Stack
+- HTML5
+- Tailwind CSS
+- JavaScript
+
+## 📂 Features
+- Multi-page layout (Home, About, Skills, Experience, Education, Contact)
+- Mobile navigation with toggle
+- Smooth scroll + scroll animations
+- Resume download + contact info
+
+## 🌐 Live Preview
+[Click here to view the website]()
+
+## 📄 License
+This portfolio was developed by [Mohd Sahbaz](https://github.com/MohdSahbaz) for professional use.
