@@ -14,7 +14,7 @@ A modern, fully responsive portfolio website for Mohd Maroof Chaudhary — a pro
 - Resume download + contact info
 
 ## 🌐 Live Preview
-[Click here to view the website]()
+[Click here to view the website](https://mohd-maroof.vercel.app/)
 
 ## 📄 License
 This portfolio was developed by [Mohd Sahbaz](https://github.com/MohdSahbaz) for professional use.
