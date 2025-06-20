@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohd-maroof.vercel.app/sitemap.xml
